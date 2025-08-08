@@ -1,0 +1,102 @@
+.ka{
+    width: 200px;
+    height: 25px;
+    background-color: gray;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
+.ka i{
+    font-size: 20px;
+}
+.ka input{
+    background: transparent;
+    height: 25px;
+    width: 160px;
+}
+.image{
+    height: 25px;
+    width: 25px;
+    display: flex;
+    background-color: grey;
+}
+#sign{
+    text-decoration: none;
+    color: black;
+}
+#join{
+    text-decoration: none;
+    color: black;
+}
+.head{
+    display: flex;
+    margin-left: 10px;
+    align-items: center;
+    gap: 20px;
+}
+.div1{
+    display: flex;
+    margin-left: 1100px;
+    gap: 20px;
+}
+.imge img{
+    height: 50px;
+    width: 70px;
+}
+.mid{
+    display: flex;
+    gap: 30px;
+    margin-left: 500px;
+}
+.nav2{
+    align-items: center;
+    display: flex;
+}
+.sear input{
+    background-color: #E9ECEF;
+    border-radius: 30px;
+    border: transparent;
+    outline: none;
+}
+.sear{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+.heart{
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+}
+.box{
+    align-items: center;
+    background-color: #E9ECEF;
+    height:100px;
+    text-align: center;
+    line-height: 0.25;
+    padding: 0.2px 0px;
+}
+.box h2{
+    margin-top: 30px;
+}
+.bag{
+    margin-left: 15px;
+}
+.bag i{
+    font-size: 20px;
+}
+.heart i{
+    font-size: 20px;
+}
+.ima{
+    display: flex;
+    align-items: center;
+}
+.ima img{
+    margin-top: 50px;
+    margin-left: 350px;
+    display: flex;
+    align-items: center;
+    height: 300px;
+    width: 800px;
+}

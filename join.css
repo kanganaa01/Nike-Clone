@@ -1,0 +1,331 @@
+.image{
+    height: 25px;
+    width: 25px;
+    display: flex;
+    background-color: grey;
+}
+.head{
+    display: flex;
+    margin-left: 10px;
+    align-items: center;
+    gap: 20px;
+}
+.div1{
+    display: flex;
+    margin-left: 1100px;
+    gap: 20px;
+}
+.imge img{
+    height: 50px;
+    width: 70px;
+}
+.mid{
+    display: flex;
+    gap: 30px;
+    margin-left: 500px;
+}
+.nav2{
+    align-items: center;
+    display: flex;
+}
+.sear input{
+    background-color: #E9ECEF;
+    border-radius: 30px;
+    border: transparent;
+    outline: none;
+}
+.sear{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+.heart{
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+}
+.box{
+    align-items: center;
+    background-color: #E9ECEF;
+    height:100px;
+    text-align: center;
+    line-height: 0.25;
+    padding: 0.2px 0px;
+}
+.box h2{
+    margin-top: 30px;
+}
+.box h3{
+    margin-top: 30px;
+    text-decoration: underline;
+}
+.bag{
+    margin-left: 15px;
+}
+.bag i{
+    font-size: 20px;
+}
+.heart i{
+    font-size: 20px;
+}
+.ima{
+    display: flex;
+    align-items: center;
+}
+.ima img{
+    margin-top: 50px;
+    margin-left: 350px;
+    display: flex;
+    align-items: center;
+    height: 300px;
+    width: 800px;
+}
+.nike h2{
+    margin-left: 50px;
+    font-weight: 400;
+}
+.nike{
+    display: flex;
+}
+.nike h3{
+    margin-left: 500px;
+    font-weight: 300;
+}
+.shu img{
+    margin-left: 120px;
+    width: 1300px;
+}
+.bene h2{
+    font-weight: 300;
+    margin-left: 50px;
+}
+.but img{
+    height: 500px;
+    margin-left: 70px;
+}
+#first{
+    width: 500px;
+    height: 550px;
+    background-image: url(https://images-ext-1.discordapp.net/external/_7KJYn-DquN8XitWprlrGh6neiMmiXWWorgLFpCf4o8/https/static.nike.com/a/images/f_auto/dpr_1.0%2Ccs_srgb/w_599%2Cc_limit/292e33ac-2320-4e7e-bbc4-6f596e266ab2/nike-member-benefits-sport-and-wellness-apps.png?format=webp&quality=lossless&width=658&height=823);
+    margin-left: 5px;
+    line-height: 0.5;
+}
+#second{
+    width: 500px;
+    height: 550px;
+    background-image: url(https://images-ext-1.discordapp.net/external/J5UVqB4QCKyw1JSHazg4JRoVW2ghHrERKa1Su1b0mAE/https/static.nike.com/a/images/f_auto/dpr_1.0%2Ccs_srgb/w_599%2Cc_limit/cdfa87e8-3509-47a9-b7bc-2a51a2d02a7a/nike-member-benefits-member-exclusive-product.jpg?format=webp&width=658&height=823);
+    margin-left: 20px;
+    line-height: 0.5;
+}
+#third{
+    width: 500px;
+    height: 550px;
+    background-image: url(https://images-ext-1.discordapp.net/external/i72_FtSeEsr8UEeFI3cDwaXIz17EC8Bugjy5s1lhPRg/https/static.nike.com/a/images/f_auto/dpr_1.0%2Ccs_srgb/h_750%2Cc_limit/39412611-0af5-4770-8c2e-ef5c23bc6a3d/nike-member-benefits-member-exclusive-product.jpg?format=webp&width=658&height=823);
+    margin-left: 20px;
+    line-height: 0.5;
+}
+.main{
+    display: flex;
+}
+#first h2{
+    color: white;
+    margin-top: 400px;
+    margin-left: 100px;
+}
+#first h1{
+    color: white;
+    margin-left: 100px;
+}
+#first button{
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    height: 40px;
+    width: 80px;
+    margin-left: 100px;
+    border: none;
+}
+#second h2{
+    color: white;
+    margin-top: 400px;
+    margin-left: 70px;
+}
+#second h1{
+    color: white;
+    margin-left: 70px;
+}
+#second button{
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    height: 40px;
+    width: 80px;
+    margin-left: 70px;
+    border: none;
+}
+#third h2{
+    color: white;
+    margin-top: 400px;
+    margin-left: 100px;
+}
+#third h1{
+    color: white;
+    margin-left: 100px;
+}
+#third button{
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    height: 40px;
+    width: 80px;
+    margin-left: 100px;
+    border: none;
+}
+.return{
+    font-weight: 400;
+}
+.exp{
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    width: 100px;
+}
+.experi{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+}
+.memb{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+.ret{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+}
+.ret img{
+    height: 100px;
+}
+.connect img{
+    height: 50px;
+    width: 50px;
+}
+.connect{
+    display: flex;
+    margin-top: 100px;
+}
+.app{
+    margin-left: 200px;
+    align-items: center;
+}
+.club{
+    margin-left: 300px;
+    align-items: center;
+}
+.train{
+    align-items: center;
+    margin-left: 300px;
+}
+.ret p{
+    line-height: 0.3;
+}
+.experi p{
+    line-height: 0.3;
+}
+#p3{
+    width: 100%;
+}
+.kgh{
+    font-weight: 300;
+}
+#p4{
+    border: 2px black solid;
+    box-shadow: 0px 0px 10px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+#p5{
+    border: 2px black solid;
+    box-shadow: 0px 0px 10px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+#p6{
+    border: 2px black solid;
+    box-shadow: 0px 0px 10px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+.app{
+    text-align: center;
+}
+.club{
+    text-align: center;
+}
+.train{
+    text-align: center;
+}
+.app p{
+    line-height: 0.3;
+}
+.club p{
+    line-height: 0.3;
+}
+.train p{
+    line-height: 0.3;
+}
+.app a{
+    text-decoration: none;
+    color: black;
+}
+.club a{
+    text-decoration: none;
+    color: black;
+}
+.train a{
+    text-decoration: none;
+    color: black;
+} 
+.member{
+    width: 100%;
+}
+.kangana{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+.alok{
+    width: 50%;
+    height: 200px;
+    text-align: center;
+}
+.alok img{
+    height: 70px;
+    margin-left: -40px;
+}
+.alok p{
+    line-height: 0.3;
+}
+.luv p{
+    line-height: 0.3;
+}
+.luv img{
+    height: 70px;
+    margin-left: -40px;
+}
+.luv h3{
+    line-height: 0.7;
+}
+.alok h3{
+    line-height: 0.7;
+}
+.luv{
+    width: 50%;
+    height: 200px;
+    text-align: center;
+}
